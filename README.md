@@ -1,8 +1,6 @@
 <h3 align="center">Senior Computer Science Student</h3>
 
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **Spring,React,Go**
+- 🌱 I’m currently learning **Spring,React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
