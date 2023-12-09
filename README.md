@@ -1,4 +1,6 @@
-<h3 align="center">Senior Computer Science Student</h3>
+<h3 align="center">Senior Computer Engineering Student at Dokuz Eylül University</h3>
+<h3 align="center">Software Developer</h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
