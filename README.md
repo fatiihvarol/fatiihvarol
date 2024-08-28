@@ -1,4 +1,4 @@
-<h3 align="center">Senior Computer Engineering Student at Dokuz Eylül University</h3>
+<h3 align="center">Software Developer at VeriPark</h3>
 <h3 align="center">Software Developer</h3>
 
 
